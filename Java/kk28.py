@@ -1,0 +1,16 @@
+#lst methods
+list = [2,1,3]
+list.append(34)
+print(list)
+list.sort()
+print(list)
+list.sort(reverse=True)
+print(list)
+list.reverse()
+print(list)
+list.insert(1,5)
+print(list)
+list.remove(3)
+print(list)
+list.pop(2)
+print(list)

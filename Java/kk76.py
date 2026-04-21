@@ -1,0 +1,1 @@
+print("khushi",ends="0")
